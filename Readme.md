@@ -2,7 +2,7 @@
 
 A website allows users to upload hundreds of high-resolution images at once. Each image needs to be resized to multiple resolutions and watermarked before being saved and shown in the gallery. The site should remain responsive and fast during heavy usage.
 
-![Image Processing System Diagram](../diagram/Image-processing.jpg)
+![Image Processing System Diagram](./diagram/Image-processing.jpg)
 
 **Customer Invoice Emailer**
 
